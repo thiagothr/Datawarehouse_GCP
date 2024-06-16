@@ -18,4 +18,8 @@ Para o projeto estruturei um Datawarehouse chamado Projeto_GCP no BigQuery com b
 ![Captura de tela 2024-06-15 233029](https://github.com/thiagothr/Case_IPNET/assets/72639507/f57fd620-e9b0-47a9-9dfd-2e605ed049e0)
 
 ## Desenvolvimento do codigo
-Após a estruturação do DW no Google Cloud desensenvolvi um codigo `Script_ETL` que realiza todo pipeline desde a extração, transformação até o carregamento dos dataframes ao BigQuery.
+Após a estruturação do DW no Google Cloud desensenvolvi um codigo `Script_ETL` que realiza todo pipeline desde a extração, transformação até o carregamento dos dataframes ao BigQuery, criando um ambiente no docker para testar o codigo. 
+Depois de criar a imagem no docker e testado fiz o deploy da imagem para o `Conteiner Registry` do google cloud para ser armazenado e disponibilzar para a equipe e usei `Cloud Run` para executar a imagem salva no `GCR` executando todo o script
+e realizando o carregamento dos dataframes para as tabelas no `BigQuery`.
+
+![Captura de tela 2024-06-16 012530](https://github.com/thiagothr/Case_IPNET/assets/72639507/909cef42-2d83-4854-a487-a9542c1025e2)
