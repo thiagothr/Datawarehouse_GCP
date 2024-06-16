@@ -23,3 +23,7 @@ Depois de criar a imagem no docker e testado fiz o deploy da imagem para o `Cont
 e realizando o carregamento dos dataframes para as tabelas no `BigQuery`.
 
 ![Captura de tela 2024-06-16 012530](https://github.com/thiagothr/Case_IPNET/assets/72639507/909cef42-2d83-4854-a487-a9542c1025e2)
+
+## Consulta SQL
+Com os dados carregados nas tabelas realizei a consulta que foi solicitada no case
+![Captura de tela 2024-06-16 015811](https://github.com/thiagothr/Case_IPNET/assets/72639507/24641c09-beb5-4ecd-a5c0-0a1113c563bd)
