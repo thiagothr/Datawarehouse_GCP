@@ -26,4 +26,10 @@ e realizando o carregamento dos dataframes para as tabelas no `BigQuery`.
 
 ## Consulta SQL
 Com os dados carregados nas tabelas realizei a consulta que foi solicitada no case
+
 ![Captura de tela 2024-06-16 015811](https://github.com/thiagothr/Case_IPNET/assets/72639507/24641c09-beb5-4ecd-a5c0-0a1113c563bd)
+
+## Endopoint
+E para finalizar utilizei o `Cloud Functions` para criar uma função que me retorna um endpoint dos dados da consulta
+
+![Captura de tela 2024-06-16 021458](https://github.com/thiagothr/Case_IPNET/assets/72639507/eddbcfe4-66cf-4090-9b27-72fb1558f10d)
