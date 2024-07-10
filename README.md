@@ -1,5 +1,5 @@
-## Teste Técnico Engenheiro de dados
-Documentação da resolução do case de Engenharia de dados. Todo o codigo do pipeline desenvolvido está no notebook `Script_ETL` e tambem todos os outros codigos como `Dockerfile`, e scripts `SQL` para a criação das tabelas e a consulta. Abaixo vai toda a explicação implementado na `Google Cloud`.
+## Desenvolvimento de Pipeline de dados e carregando no BigQuery do Google Cloud.
+
 
 ## Linguagem e ferramentas utilizadas para o teste:
   - Python
