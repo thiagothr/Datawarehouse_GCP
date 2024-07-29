@@ -38,7 +38,7 @@ Depois de criar a imagem no docker e testado, fiz o deploy da imagem docker para
 
 
 ## Consulta SQL
-Com os dados carregados nas tabelas realizei a consulta que foi solicitada no case
+Com os dados carregados nas tabelas realizei  consultas SQL
 
 ![Captura de tela 2024-06-16 015811](https://github.com/thiagothr/Case_IPNET/assets/72639507/24641c09-beb5-4ecd-a5c0-0a1113c563bd)
 
